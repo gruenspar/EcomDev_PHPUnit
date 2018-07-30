@@ -1,5 +1,5 @@
 {
-    "name": "ecomdev/ecomdev_phpunit",
+    "name": "gruenspar/ecomdev_phpunit",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Magento PHPUnit Integration",
