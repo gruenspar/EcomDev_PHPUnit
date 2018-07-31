@@ -5,7 +5,7 @@
  *
  * @loadSharedFixture customers
  */
-class EcomDev_PHPUnitTest_Test_Helper_Customer extends EcomDev_PHPUnit_Test_Case
+class EcomDev_PHPUnitTest_Test_Helper_Customer extends EcomDev_PHPUnit_Test_Case_Controller
 {
     /**
      *
